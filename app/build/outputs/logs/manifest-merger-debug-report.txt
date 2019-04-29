@@ -1,0 +1,168 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\5dae84c454f99f4a3a7943043ebbf875\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\be060e3f2c2ac4e79d9923a72a670da5\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\b9c96a0186e38a41d96a01daab20ac7d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\54195aa2311f90419db983949eb7334b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\cc0429a77d57c642b4bce1b6f78a35ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\07c046c852bd230edf8654367b854610\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\a54a103ceb36061e153374be41160c05\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\6f37adc0da28f2ee550f6c0ed31e07cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\aa333b35d37882412c0fbba4bf671170\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\c53f9e997c295d98a5a1e48d4d71c22f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\0db97bdeb6920ca916aca6f4fa06b61e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\c0f3103c3b7824b0c2eda1eb2360511f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\b1f2db709b766b76d9b471ec8d204c11\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\a6d27e02d2c599c32aeef8c64b4753b2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\271fb4e7737386f1ab0868351e7b05fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\6932b9db7b17c1f6221648b6f5b8b694\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\eeb728e56ddb345eca69d423fb7844f9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\fff45849b08609d4ce0ef8158026e557\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\f64f0d9bcff7e8b2d076ed91618d62fb\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\0dbffe7e02ca0fc85322c51a58d8d066\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\b057948b930843ba3daf24c098a61fdf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\89614943bdb30fad5d1b941488503fc8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\cabeb4b08e4dac23cfafaf2ee297fa81\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\2f70e9b30be34db6783f9b52abcca33d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\e6db178b68aa00f9c2af36476dda0018\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\784b4cd28b24b72491eb3a1c4413dffd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\9bbf357ab55c8a0009a2c1a766950a50\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\e93d136578fba260ab4d81fe9e27b6b7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\bf18ddc84fc32049612e067009c31960\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml:5:5-83
+	android:name
+		ADDED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml:8:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\be060e3f2c2ac4e79d9923a72a670da5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\be060e3f2c2ac4e79d9923a72a670da5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\fff45849b08609d4ce0ef8158026e557\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\fff45849b08609d4ce0ef8158026e557\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\f64f0d9bcff7e8b2d076ed91618d62fb\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\f64f0d9bcff7e8b2d076ed91618d62fb\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\fff45849b08609d4ce0ef8158026e557\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.pokedexfragment.Main2Activity
+ADDED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml:15:9-60
+	android:name
+		ADDED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml:15:19-48
+activity#com.example.pokedexfragment.MainActivity
+ADDED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\5dae84c454f99f4a3a7943043ebbf875\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\5dae84c454f99f4a3a7943043ebbf875\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\be060e3f2c2ac4e79d9923a72a670da5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\be060e3f2c2ac4e79d9923a72a670da5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\b9c96a0186e38a41d96a01daab20ac7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\b9c96a0186e38a41d96a01daab20ac7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\54195aa2311f90419db983949eb7334b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\54195aa2311f90419db983949eb7334b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\cc0429a77d57c642b4bce1b6f78a35ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\cc0429a77d57c642b4bce1b6f78a35ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\07c046c852bd230edf8654367b854610\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\07c046c852bd230edf8654367b854610\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\a54a103ceb36061e153374be41160c05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\a54a103ceb36061e153374be41160c05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\6f37adc0da28f2ee550f6c0ed31e07cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\6f37adc0da28f2ee550f6c0ed31e07cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\aa333b35d37882412c0fbba4bf671170\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\aa333b35d37882412c0fbba4bf671170\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\c53f9e997c295d98a5a1e48d4d71c22f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\c53f9e997c295d98a5a1e48d4d71c22f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\0db97bdeb6920ca916aca6f4fa06b61e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\0db97bdeb6920ca916aca6f4fa06b61e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\c0f3103c3b7824b0c2eda1eb2360511f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\c0f3103c3b7824b0c2eda1eb2360511f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\b1f2db709b766b76d9b471ec8d204c11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\b1f2db709b766b76d9b471ec8d204c11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\a6d27e02d2c599c32aeef8c64b4753b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\a6d27e02d2c599c32aeef8c64b4753b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\271fb4e7737386f1ab0868351e7b05fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\271fb4e7737386f1ab0868351e7b05fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\6932b9db7b17c1f6221648b6f5b8b694\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\6932b9db7b17c1f6221648b6f5b8b694\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\eeb728e56ddb345eca69d423fb7844f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\eeb728e56ddb345eca69d423fb7844f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\fff45849b08609d4ce0ef8158026e557\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\fff45849b08609d4ce0ef8158026e557\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\f64f0d9bcff7e8b2d076ed91618d62fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\f64f0d9bcff7e8b2d076ed91618d62fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\0dbffe7e02ca0fc85322c51a58d8d066\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\0dbffe7e02ca0fc85322c51a58d8d066\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\b057948b930843ba3daf24c098a61fdf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\b057948b930843ba3daf24c098a61fdf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\89614943bdb30fad5d1b941488503fc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\89614943bdb30fad5d1b941488503fc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\cabeb4b08e4dac23cfafaf2ee297fa81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\cabeb4b08e4dac23cfafaf2ee297fa81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\2f70e9b30be34db6783f9b52abcca33d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\2f70e9b30be34db6783f9b52abcca33d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\e6db178b68aa00f9c2af36476dda0018\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\e6db178b68aa00f9c2af36476dda0018\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\784b4cd28b24b72491eb3a1c4413dffd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\784b4cd28b24b72491eb3a1c4413dffd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\9bbf357ab55c8a0009a2c1a766950a50\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\9bbf357ab55c8a0009a2c1a766950a50\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\e93d136578fba260ab4d81fe9e27b6b7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\e93d136578fba260ab4d81fe9e27b6b7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\bf18ddc84fc32049612e067009c31960\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\bf18ddc84fc32049612e067009c31960\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ricar\Desktop\PokedexFragment\app\src\main\AndroidManifest.xml

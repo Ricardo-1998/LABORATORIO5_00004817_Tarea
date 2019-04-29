@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".Fragmento2"
+        android:background="#3857A2">
+
+    <RelativeLayout android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+        <android.support.v7.widget.CardView
+                android:id="@+id/card_view"
+                android:layout_marginLeft="@dimen/marginCard"
+                android:layout_marginRight="@dimen/marginCard"
+                android:layout_marginTop="@dimen/marginTopCard"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardElevation="0dp"
+                app:cardCornerRadius="8dp"
+                app:cardBackgroundColor="#fff">
+
+            <LinearLayout
+                    android:id="@+id/linear_view"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:gravity="center_horizontal"
+                    android:padding="16dp"
+                    android:layout_marginTop="80dp"
+                    android:background="#fff">
+
+                <TextView
+                        android:layout_marginTop="50sp"
+                        android:id="@+id/namePoke"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="16dp"
+                        android:textStyle="bold"
+                        android:textSize="30sp"
+                        android:text="Name: N/A"
+                />
+
+                <TextView
+                        android:id="@+id/pokeType"
+                        android:text="Type: N/A"
+                        android:textSize="@dimen/textSizeDet"
+                        android:layout_marginBottom="16dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                />
+                <TextView
+                        android:id="@+id/pesoPoke"
+                        android:text="Weight: N/A"
+                        android:textSize="@dimen/textSizeDet"
+                        android:layout_marginBottom="16dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                />
+                <TextView
+                        android:id="@+id/alturaPoke"
+                        android:text="Height: N/A"
+                        android:textSize="@dimen/textSizeDet"
+                        android:layout_marginBottom="16dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                />
+
+
+            </LinearLayout>
+
+
+        </android.support.v7.widget.CardView>
+
+        <ImageView
+
+                android:id="@+id/pokeimage"
+                android:layout_centerHorizontal="true"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_alignTop="@+id/card_view"
+                android:layout_marginTop="-30dp"
+                android:src="@drawable/ic_launcher_background"/>
+
+
+
+    </RelativeLayout>
+
+
+
+
+
+
+
+</RelativeLayout>
